@@ -1,4 +1,4 @@
-module producer_consumer
+module github.com/arnab333/golang-consumer-producer-problem
 
 go 1.18
 
